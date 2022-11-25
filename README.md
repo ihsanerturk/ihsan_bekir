@@ -1,5 +1,5 @@
 ##IHSAN BEKIR GITHUB
-[claruswa](www.clarusway.com)
+[Clarusway](https://www.clarusway.com)
 |ihsan | Bekir|
 -------|------|
 |AWS   |FS    |
